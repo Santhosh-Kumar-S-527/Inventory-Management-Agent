@@ -36,6 +36,8 @@ ENV/
 .crewai/
 crew_outputs/
 outputs/
+!outputs/purchase_orders/
+!outputs/purchase_orders/.gitkeep
 
 # ─── MongoDB / Database ───────────────────────────────────────────────────────
 *.db
